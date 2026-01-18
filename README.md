@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as Data Engineer at TCS (Tata Consulatancy Services)
+- 🌱 I’m currently learning Big Data Ecosystem Technologies which includes HIVE, Hue, Talend Jobs, ETL Development, MYSQL, Hadoop 
+- 🤔 I’m looking for help with Data Managenment Systems and ETL Jobs
