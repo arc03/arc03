@@ -1,19 +1,31 @@
-## Hi there 👋
+Hi, I’m Archita 👋
 
-<!--
-**arc03/arc03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer at Tata Consultancy Services with a strong interest in building scalable data systems and transitioning deeper into Machine Learning engineering.
 
-Here are some ideas to get you started:
+🚀 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working as Data Engineer at TCS (Tata Consulatancy Services)
-- 🌱 I’m currently learning Big Data Ecosystem Technologies which includes HIVE, Hue, Talend Jobs, ETL Development, MYSQL, Hadoop 
-- 🤔 I’m looking for help with Data Managenment Systems and ETL Jobs
+Designing and optimizing ETL pipelines for large-scale, high-sensitivity data systems.
+Working with Big Data technologies in the Hadoop ecosystem.
+Improving data quality, transformation logic, and performance optimization.
+
+🌱 Currently Learning
+
+Advanced Big Data tools (Hive, Hadoop, Talend).
+Distributed data processing concepts.
+Production-ready data pipeline architecture.
+Machine Learning system design
+
+🧠 Interests
+
+Data Engineering + ML integration.
+End-to-end pipeline development.
+Performance tuning & query optimization.
+Building reliable, scalable data infrastructure
+
+💬 Ask Me About
+
+Python • SQL • PySpark • ETL Development • Data Pipelines • ML Projects
+
+📫 Connect With Me
+
+LinkedIn: linkedin.com/in/archita-sharda
